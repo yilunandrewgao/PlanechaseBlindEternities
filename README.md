@@ -15,3 +15,4 @@ Things that still need to be done:
 * Adding CSS
 * Add support for phenomenon cards
 * Host the app
+* Get higher resolution images of Plane cards
